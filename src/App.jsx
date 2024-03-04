@@ -139,4 +139,19 @@ const DefiStats = () => {
   );
 };
 
+
+response.data.coins["coingecko:kira-the-injective-cat"].price;
+response.data.coins["coingecko:stride-staked-injective"].price;
+response.data.coins["coingecko:dog-wif-nuchucks"].price;
+response.data.coins["coingecko:dojo-token"].price;
+response.data.coins["coingecko:alien"].price;
+response.data.coins["coingecko:dinj"].price;
+response.data.coins["coingecko:zignaly"].price;
+response.data.coins["coingecko:ninjaroll"].price
+
+
+
+
+
+
 export default DefiStats;
